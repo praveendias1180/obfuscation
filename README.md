@@ -51,3 +51,11 @@ Marc Rennhard
 Zurich University of Applied Sciences
 Switzerland
 Email: rema@zhaw.ch
+
+## MELANI (JS Droppers | Exploit Kits)
+
+![](melani.png)
+
+# Six different JavaScript Obfuscators
+
+![](the-six.png)
