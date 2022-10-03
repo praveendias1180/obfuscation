@@ -30,3 +30,7 @@ There are 4 Categories
 ## 4. Logic Structure Obfuscation
 
 ![](logic-obfuscation.png)
+
+# The usage of JavaScript Obfuscation Techniques
+
+![](usage.png)
