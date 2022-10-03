@@ -72,3 +72,15 @@ Given enough time, effort and determination, a competent programmer will always 
 
 ![](taxonomy.png)
 
+# The Classification
+
+- Potency (To what degree is a human reader confused?) 
+
+- Resilience (How well are automatic deobfuscation attacks resisted?)
+
+- Cost (How much overhead is added to the application?)
+
+# Obfuscating Transformation
+
+![](transformation.png)
+
