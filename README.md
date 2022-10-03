@@ -34,3 +34,20 @@ There are 4 Categories
 # The usage of JavaScript Obfuscation Techniques
 
 ![](usage.png)
+
+# Detecting Obfuscated JavaScripts from Known and Unknown Obfuscators using Machine Learning
+
+Bernhard Tellenbach
+Zurich University of Applied Sciences
+Switzerland
+Email: tebe@zhaw.ch
+
+Sergio Paganoni
+SecureSafe / DSwiss AG
+Zurich, Switzerland
+Email: sergio.paganoni@dswiss.com
+
+Marc Rennhard
+Zurich University of Applied Sciences
+Switzerland
+Email: rema@zhaw.ch
