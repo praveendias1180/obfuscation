@@ -70,5 +70,5 @@ Technical Report #148
 
 Given enough time, effort and determination, a competent programmer will always be able to reverse engineer any application. Having gained physical access to the application, the reverse engineer can decompile it (using disassemblers or decompilers) and then analyze its data structures and control ow. This can either be done manually or with the aid of reverse engineering tools such as program slicers.
 
-
+![](taxonomy.png)
 
